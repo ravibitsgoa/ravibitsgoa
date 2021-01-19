@@ -1,5 +1,7 @@
 # Hi, I am Ravishankar
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravibitsgoa" alt="ravibitsgoa" /> </p>
+
 I am Ravishankar Joshi. I work at Uber as a Software Engineer.
 
 I interned at Google as a Software Engineer Intern in Summer 2019.
